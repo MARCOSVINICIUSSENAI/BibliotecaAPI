@@ -140,3 +140,14 @@ C:\Users\Aluno Noite\source\repos\BibliotecaAPI\obj\Debug\net8.0\refint\Bibliote
 C:\Users\Aluno Noite\source\repos\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.pdb
 C:\Users\Aluno Noite\source\repos\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.genruntimeconfig.cache
 C:\Users\Aluno Noite\source\repos\BibliotecaAPI\obj\Debug\net8.0\ref\BibliotecaAPI.dll
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.AssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.sourcelink.json
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.dll
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\refint\BibliotecaAPI.dll
+C:\Users\Aluno Noite\Desktop\BibliotecaAPI\obj\Debug\net8.0\BibliotecaAPI.pdb
