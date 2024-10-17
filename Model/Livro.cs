@@ -1,19 +1,17 @@
-﻿using BibliotecaAPI.ORM;
-
-namespace BibliotecaAPI.Model
+﻿namespace BibliotecaAPI.Model
 {
     public class Livro
     {
         public int Id { get; set; }
 
-        public string Titulo { get; set; } = null!;
+        public string Titulo { get; set; }
 
-        public string Autor { get; set; } = null!;
+        public string Autor { get; set; }
 
-        public string AnoPublicacao { get; set; } = null!;
+        public int AnoPublicacao { get; set; }
 
         public int FkCategoria { get; set; }
 
-        public byte[] Disponibilidade { get; set; } = null!;
+        public bool Disponibilidade { get; set; }
     }
 }

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\model\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:model\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\orm\\tbcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:orm\\tbcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\model\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:model\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|c:\\users\\aluno noite\\desktop\\bibliotecaapi\\orm\\tbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB4D09B-61D2-4AB6-887B-C84E740CBFDC}|BibliotecaAPI.csproj|solutionrelative:orm\\tbusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,45 +37,6 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriaRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorio\\CategoriaRepositorio.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Repositorio\\CategoriaRepositorio.cs",
-              "RelativeToolTip": "Repositorio\\CategoriaRepositorio.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAcwHkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T18:53:10.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T18:50:51.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\Categoria.cs",
-              "RelativeDocumentMoniker": "Model\\Categoria.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\Categoria.cs",
-              "RelativeToolTip": "Model\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:23:39.186Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
@@ -81,28 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TbCategoria.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\ORM\\TbCategoria.cs",
-              "RelativeDocumentMoniker": "ORM\\TbCategoria.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\ORM\\TbCategoria.cs",
-              "RelativeToolTip": "ORM\\TbCategoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:16:46.279Z",
+              "WhenOpened": "2024-10-17T20:39:57.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:37:03.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoriaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\CategoriaDto.cs",
-              "RelativeDocumentMoniker": "Model\\CategoriaDto.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\CategoriaDto.cs",
-              "RelativeToolTip": "Model\\CategoriaDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\Usuario.cs",
+              "RelativeToolTip": "Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:16:43.647Z",
+              "WhenOpened": "2024-10-17T20:36:57.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "Model\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Model\\UsuarioDto.cs",
+              "RelativeToolTip": "Model\\UsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:36:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TbUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\ORM\\TbUsuario.cs",
+              "RelativeDocumentMoniker": "ORM\\TbUsuario.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\ORM\\TbUsuario.cs",
+              "RelativeToolTip": "ORM\\TbUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:29:10.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\BibliotecaAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T20:29:07.908Z",
               "EditorCaption": ""
             }
           ]

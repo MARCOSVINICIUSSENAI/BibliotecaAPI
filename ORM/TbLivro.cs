@@ -11,11 +11,11 @@ public partial class TbLivro
 
     public string Autor { get; set; } = null!;
 
-    public string AnoPublicacao { get; set; } = null!;
+    public int AnoPublicacao { get; set; }
 
     public int FkCategoria { get; set; }
 
-    public byte[] Disponibilidade { get; set; } = null!;
+    public bool Disponibilidade { get; set; }
 
     public virtual TbCategoria FkCategoriaNavigation { get; set; } = null!;
 
